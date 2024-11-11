@@ -1,0 +1,33 @@
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\appsettings.Development.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\appsettings.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Git Out.exe
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Git Out.deps.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Git Out.runtimeconfig.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Git Out.dll
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Git Out.pdb
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.csproj.AssemblyReference.cache
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.GeneratedMSBuildEditorConfig.editorconfig
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.AssemblyInfoInputs.cache
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.AssemblyInfo.cs
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.csproj.CoreCompileInputs.cache
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.MvcApplicationPartsAssemblyInfo.cs
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.MvcApplicationPartsAssemblyInfo.cache
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.sourcelink.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\staticwebassets.build.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\staticwebassets.development.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\staticwebassets\msbuild.Git Out.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\staticwebassets\msbuild.build.Git Out.props
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Git Out.props
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Git Out.props
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\scopedcss\bundle\Git Out.styles.css
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.csproj.Up2Date
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.dll
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\refint\Git Out.dll
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.pdb
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\Git Out.genruntimeconfig.cache
+F:\Skewl\SEMESTER 4\Git Out\Git Out\Git Out\obj\Debug\net8.0\ref\Git Out.dll

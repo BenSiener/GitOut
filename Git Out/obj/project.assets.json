@@ -453,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Skewl\\SEMESTER 4\\Git Out\\Git Out\\Git Out\\Git Out.csproj",
-      "projectName": "Git Out",
-      "projectPath": "F:\\Skewl\\SEMESTER 4\\Git Out\\Git Out\\Git Out\\Git Out.csproj",
+      "projectUniqueName": "F:\\Skewl\\SEMESTER 4\\Git Out\\Git Out\\Git Out\\GitOut.csproj",
+      "projectName": "GitOut",
+      "projectPath": "F:\\Skewl\\SEMESTER 4\\Git Out\\Git Out\\Git Out\\GitOut.csproj",
       "packagesPath": "C:\\Users\\bacon\\.nuget\\packages\\",
       "outputPath": "F:\\Skewl\\SEMESTER 4\\Git Out\\Git Out\\Git Out\\obj\\",
       "projectStyle": "PackageReference",
